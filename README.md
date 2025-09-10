@@ -13,11 +13,8 @@
 
 ---
 
-
 ## 🎬 Demonstração em vídeo
 https://github.com/user-attachments/assets/9598634b-dc85-4577-bc09-5716cbea57a3
-
-
 
 ---
 
@@ -61,7 +58,10 @@ $ npm install
 
 # Dentro de src, crie um diretório chamado firebase
 # Dentro deste diretório, crie o arquivo de configuração:
-$ src/firebase/ config.js
+$ config.js
+
+# Caminho esperado:
+src/firebase/config.js
 
 # Copie o conteúdo de `config.example.js` e substitua pelas suas próprias credenciais do Firebase.
 ```
