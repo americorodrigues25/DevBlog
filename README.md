@@ -74,7 +74,7 @@ $ npm start
 ---
 
 ## 📢 Publicação no LinkedIn
-[🔗 Ver post no LinkedIn]
+[🔗 Ver post no LinkedIn](https://www.linkedin.com/posts/americo-rodrigues025_novo-projeto-no-ar-devblog-este-foi-ugcPost-7371877988004556802-WoCK/?utm_source=share&utm_medium=member_desktop)
 
 ---
 
